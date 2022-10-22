@@ -22,7 +22,7 @@ const Home: NextPage = () => {
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>About Page &rarr;</h2>
-            <p>Trying to learn next JS for something big.</p>
+            <p>Trying... to learn next JS for something big.</p>
             <Link href='/about'>Read More</Link>
           </a>
          
